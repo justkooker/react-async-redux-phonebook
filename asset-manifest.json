@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-async-redux-phonebook/static/css/main.193675f3.css",
+    "main.js": "/react-async-redux-phonebook/static/js/main.b24528ac.js",
+    "index.html": "/react-async-redux-phonebook/index.html",
+    "main.193675f3.css.map": "/react-async-redux-phonebook/static/css/main.193675f3.css.map",
+    "main.b24528ac.js.map": "/react-async-redux-phonebook/static/js/main.b24528ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.193675f3.css",
+    "static/js/main.b24528ac.js"
+  ]
+}
